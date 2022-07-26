@@ -1,4 +1,4 @@
-# etl_challenge
+# airbnb_etl
 https://www.kaggle.com/mysarahmadbhat/airbnb-listings-reviews (this has the csvs I used).
 
 This project is a combination of extracting data from the internet, transforming it using pandas, and loading it into an SQL database via using SQL Alchemy to connect to pgAdmin.
